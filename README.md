@@ -3,16 +3,17 @@
 # 👋 Hi, I'm Jeongyun Shin!
 
 🌱 Passionate Flutter & Frontend Developer  
-🎯 Goal: Work abroad as a mobile developer in the Netherlands 🇳🇱  
+🎯 Goal: Work abroad as a mobile developer in the World  
 💡 Interested in clean architecture, UI/UX, and global apps  
 🌍 Loves traveling, hiking, and meeting people from different cultures  
 
 <div align="end">
  <a href=""><img src="https://img.shields.io/badge/Blog-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> 
  <a href="mailto: sinjeongyun96@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/jeongyunshin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </div>
 
-<h1>💻Stack</h1>
+<h1>🛠️ Tech Stack</h1>
 <div>
  <h3>Web</h3>
  <!-- badge : https://shields.io/ -->
@@ -29,7 +30,8 @@
  <br/>
  <h3>App</h3>
  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> &nbsp 
- <img src="https://img.shields.io/badge/Getx-600EB2?style=flat-square"/></a> &nbsp 
+ <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a> &nbsp 
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/></a> &nbsp 
 </div> 
 
 <br/>
