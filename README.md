@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jeong%20Yun&fontSize=90)
 
+# 👋 Hi, I'm Jeongyun Shin!
 
+🌱 Passionate Flutter & Frontend Developer  
+🎯 Goal: Work abroad as a mobile developer in the Netherlands 🇳🇱  
+💡 Interested in clean architecture, UI/UX, and global apps  
+🌍 Loves traveling, hiking, and meeting people from different cultures  
 
 <div align="end">
  <a href=""><img src="https://img.shields.io/badge/Blog-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> 
